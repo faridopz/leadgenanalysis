@@ -67,8 +67,8 @@ Engagement is strong at the top of the funnel but falls sharply before demo book
 
 ### Device Preferences
 ![Device Preferences](visuals/Device_Preferences.png)  
-- Desktop: ~3,000 leads  
-- Mobile: ~2,000 leads  
+- Desktop: 2520leads  
+- Mobile: 24280 leads  
 
 Desktop leads dominate, but mobile represents a significant share. Both experiences need to be optimized.
 
