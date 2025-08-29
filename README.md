@@ -1,11 +1,12 @@
 # Marketing Lead Generation Analysis
 
 ## Project Overview
-This project explores how marketing data can be used to evaluate lead generation performance. The objective was to understand which channels perform best, which underperform, and why.  
+This project was designed as a case study for a digital marketing agency that wanted to evaluate the effectiveness of its lead generation strategy. The agency had been investing across multiple acquisition channels — including Instagram, LinkedIn, Google Ads, and email campaigns — but lacked clarity on which channels were driving the best results and where improvements were needed.  
 
-I worked with raw datasets on leads, interactions, and conversions, then built a Python pipeline to clean, merge, and analyze the data.  
+The objective of this analysis was to provide a clear, data-driven assessment of channel performance, lead quality, user behavior, and growth trends. By examining leads, interactions, and conversions together, I was able to identify not only which channels generated volume, but also which ones contributed meaningfully to conversion and ROI.  
 
-The analysis highlights patterns in acquisition, conversion, engagement, device usage, lead quality, and growth over time. Based on these findings, I developed recommendations to improve marketing efficiency and sales outcomes.
+I worked with raw datasets on leads, interactions, and conversions, built a reproducible Python pipeline to clean and merge the data, and produced visualizations to communicate insights clearly. The findings highlight both strengths and gaps in the agency’s funnel and are supported with business-focused recommendations to optimize future marketing spend and strategy.
+
 
 ---
 
@@ -120,7 +121,10 @@ Lead acquisition is scaling, but growth in volume needs to be matched with impro
 ---
 
 ## Reflection
-This project demonstrates skills in data cleaning, exploratory analysis, visualization, and business-focused storytelling. I worked with raw data, built reproducible pipelines in Python, and developed insights that could guide marketing and sales strategy.  
+I thoroughly enjoyed working on this project, especially the process of turning raw datasets into clear, actionable insights. Building the Python pipeline to clean, merge, and analyze the data gave me valuable practice in structuring analysis workflows, while creating the visualizations in Google Sheets allowed me to focus on how to communicate findings in a simple, business-friendly way.  
 
-The recommended actions could increase demo bookings, reduce acquisition costs, improve lead quality, and make pipeline growth more predictable.
+What I found most rewarding was seeing how each stage of the analysis connected — from data preparation, to exploratory analysis, to producing visuals that highlight the story behind the numbers. This reinforced the importance of not only technical accuracy but also clarity in presentation.  
 
+The project reflects my ability to combine technical data skills with business thinking: understanding where marketing spend is effective, diagnosing weak points in the funnel, and offering recommendations that could drive measurable improvements in conversion and ROI.  
+
+Overall, this was a strong learning experience in end-to-end analysis: from raw data to insights, to strategy recommendations. It confirmed for me how much I enjoy the blend of technical problem-solving and data storytelling, and it’s exactly the kind of work I’m eager to do in a professional setting.
